@@ -1,3 +1,8 @@
+# Startpage - Hide Ads
+
+[Tampermonkey](https://www.tampermonkey.net) script which removes ads from Startpage search results.
+
+Install through [Greasy Fork](https://greasyfork.org/en/scripts/425678-startpage-com-hide-ads).
 
 ## 📄 License
 
