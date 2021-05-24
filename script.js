@@ -2,7 +2,7 @@
 // @name         Startpage.com - Hide Ads
 // @namespace    https://phatbl.at/
 // @version      1.0.1
-// @description  Hides the ads section above results.
+// @description  Hides the ads section of Startpage.com search results.
 // @author       Ben Chatelain
 // @updateURL    https://greasyfork.org/en/scripts/425678-startpage-com-hide-ads
 // @source       https://github.com/phatblat/Startpage-HideAds
